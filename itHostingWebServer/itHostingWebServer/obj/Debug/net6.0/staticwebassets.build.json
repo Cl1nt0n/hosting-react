@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1497n8yNRjlX5dinUks/C2Mj3HoMUtYL6K+4+NyQcT0=",
+  "Source": "itHostingWebServer",
+  "BasePath": "_content/itHostingWebServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
